@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\bin\Debug\net8.0\ExerrcicioFixacao.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\bin\Debug\net8.0\ExerrcicioFixacao.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\bin\Debug\net8.0\ExerrcicioFixacao.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\bin\Debug\net8.0\ExerrcicioFixacao.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\bin\Debug\net8.0\ExerrcicioFixacao.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\refint\ExerrcicioFixacao.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ref\ExerrcicioFixacao.dll

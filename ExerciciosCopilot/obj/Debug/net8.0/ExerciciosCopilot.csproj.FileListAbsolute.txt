@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\bin\Debug\net8.0\ExerciciosCopilot.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\bin\Debug\net8.0\ExerciciosCopilot.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\bin\Debug\net8.0\ExerciciosCopilot.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\bin\Debug\net8.0\ExerciciosCopilot.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\bin\Debug\net8.0\ExerciciosCopilot.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\refint\ExerciciosCopilot.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ExerciciosCopilot.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerciciosCopilot\obj\Debug\net8.0\ref\ExerciciosCopilot.dll

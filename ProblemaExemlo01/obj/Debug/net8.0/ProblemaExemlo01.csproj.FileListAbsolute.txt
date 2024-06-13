@@ -1,0 +1,14 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\bin\Debug\net8.0\ProblemaExemlo01.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\bin\Debug\net8.0\ProblemaExemlo01.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\bin\Debug\net8.0\ProblemaExemlo01.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\bin\Debug\net8.0\ProblemaExemlo01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\bin\Debug\net8.0\ProblemaExemlo01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\refint\ProblemaExemlo01.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ProblemaExemlo01.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ProblemaExemlo01\obj\Debug\net8.0\ref\ProblemaExemlo01.dll

@@ -10,7 +10,9 @@ namespace ExercicioParams
         {
             
             int result = Calculator.Sum(8,3,5);
-            Console.WriteLine("Resultado: ", result);
+            int result01 = Calculator.Sum(8,3,5,8);
+            Console.WriteLine("Resultado n3: "+ result);
+            Console.WriteLine("Resultado n4: "+ result01);
             /*int result = Calculator.Sum( 30, 45, 89 );
             Console.WriteLine(result);*/
         }

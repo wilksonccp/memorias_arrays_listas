@@ -12,3 +12,4 @@ C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Memo
 C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.pdb
 C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.genruntimeconfig.cache
 C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ref\ExerrcicioFixacao.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExerrcicioFixacao\obj\Debug\net8.0\ExerrcicioFixacao.sourcelink.json

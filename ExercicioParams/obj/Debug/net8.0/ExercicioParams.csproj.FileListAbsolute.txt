@@ -12,3 +12,4 @@ C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\Memo
 C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExercicioParams\obj\Debug\net8.0\ExercicioParams.pdb
 C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExercicioParams\obj\Debug\net8.0\ExercicioParams.genruntimeconfig.cache
 C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExercicioParams\obj\Debug\net8.0\ref\ExercicioParams.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\MemoriaArraysListas\ExercicioParams\obj\Debug\net8.0\ExercicioParams.sourcelink.json

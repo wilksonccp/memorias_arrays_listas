@@ -39,6 +39,8 @@ namespace ExercicioFicacao
                     Console.WriteLine($"{aluguel.Quarto}: {aluguel.Nome}, {aluguel.Email}");
                 }
             }
+            Console.WriteLine("======================================================================");
+            
         }
     }
 

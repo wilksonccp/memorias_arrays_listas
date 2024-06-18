@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj": {}
+    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj": {
+    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj",
+        "projectUniqueName": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj",
         "projectName": "ExercicioParams",
-        "projectPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj",
+        "projectPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\ExercicioParams.csproj",
         "packagesPath": "C:\\Users\\wilks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\obj\\",
+        "outputPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\MemoriaArraysListas\\ExercicioParams\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilks\\AppData\\Roaming\\NuGet\\NuGet.Config"

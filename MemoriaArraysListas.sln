@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerrcicioFixacao", "Exerrc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioParams", "ExercicioParams\ExercicioParams.csproj", "{96EFE9C0-AEE6-447D-8B6D-D34A0F0DD85D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCalculadoraSimples", "ProjetoCalculadoraSimples\ProjetoCalculadoraSimples.csproj", "{0CB51AD0-A3A0-4CA6-B1C2-6918709630A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,5 +48,9 @@ Global
 		{96EFE9C0-AEE6-447D-8B6D-D34A0F0DD85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96EFE9C0-AEE6-447D-8B6D-D34A0F0DD85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96EFE9C0-AEE6-447D-8B6D-D34A0F0DD85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB51AD0-A3A0-4CA6-B1C2-6918709630A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB51AD0-A3A0-4CA6-B1C2-6918709630A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB51AD0-A3A0-4CA6-B1C2-6918709630A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB51AD0-A3A0-4CA6-B1C2-6918709630A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

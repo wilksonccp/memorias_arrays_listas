@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio1066
+namespace ProblemaExemplo01
 {
     internal class Program
     {

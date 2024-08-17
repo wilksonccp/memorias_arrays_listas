@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using ExercicioDeFixacao01;
 
 namespace ExercicioDeFicacao01
 {
@@ -16,15 +17,34 @@ namespace ExercicioDeFicacao01
             for (int i = 0; i < gusQtd; i++)
             {
                 Console.WriteLine("Aluguel: #" + rentQtd);
+
                 Console.Write("Nome: ");
                 string nameGues = Console.ReadLine();
                 Console.Write("Email: ");
                 string emailGues = Console.ReadLine();
-                Console.Write("Quarto: ");
-                int roomGues = int.Parse(Console.ReadLine());
 
-                rentQtd++;
+                bool roomAssigned = false;
+                while (!roomAssigned)
+                {
+                    Console.Write("Quarto: ");
+                    int roomGues;
+                    while (!int.TryParse(Console.ReadLine(), out roomGues) || roomGues < 0 || roomGues > 9)
+                    {
+                        Console.Write("Por favor, insira um número de quarto válido (0-9): ");
+                    }
+                    if (rooms[roomGues] != null)
+                    {
+                        Console.WriteLine("Este quarto já está ocupado. Por favor, escolha outro quarto.");
+                    }
+                    else
+                    {
+                        rooms[roomGues] = new Guests(nameGues, emailGues);
+                        roomAssigned = true; // Indica que um quarto foi atribuído com sucesso
+                        rentQtd++;
+                    }
+                }
             }
+
             for (int i = 0; i < 10; i++)
             {
                 if (rooms[i] != null)
@@ -32,17 +52,6 @@ namespace ExercicioDeFicacao01
                     Console.WriteLine($"{i}: {rooms[i].Name}, {rooms[i].Email}");
                 }
             }
-        }
-    }
-    internal class Guests()
-    {
-        public string Name { get; set; }
-        public string Email { get; set; }
-
-        public Guests(string name, string email)
-        {
-            Name = name;
-            Email = email;
         }
     }
 }

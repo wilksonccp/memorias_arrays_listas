@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj": {}
+    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj": {
+    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj",
+        "projectUniqueName": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj",
         "projectName": "ExercicioDeFixacao01",
-        "projectPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj",
+        "projectPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\ExercicioDeFixacao01.csproj",
         "packagesPath": "C:\\Users\\wilks\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\obj\\",
+        "outputPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\Secao06\\ExercicioDeFixacao01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilks\\AppData\\Roaming\\NuGet\\NuGet.Config"
